@@ -1,5 +1,5 @@
 # dotfiles
-These are the dotfiles I normally use on my own computer.
+My personal configuration. 
 * Settings for:
   * vim
 
