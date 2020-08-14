@@ -1,9 +1,9 @@
 # dotfiles
 My personal configuration, including vim files.
 
-##Currently using:
-* Window manager: [dwm](https://github.com/MurBad/dwm)
-* Terminal emulator: [st](https://github.com/MurBad/st)
-* Dynamic menu: dmenu
-* Text editor: vim
-* PDF Reader: Evince
+## Currently using:
+* [dwm](https://github.com/MurBad/dwm) (Window manager)
+* [st](https://github.com/MurBad/st) (Terminal emulator)
+* dmenu (Dynamic menu)
+* vim (Terminal based text editor)
+* Evince (PDF Reader)
