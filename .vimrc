@@ -87,7 +87,7 @@ function KeyshortcutC()
     nnoremap <buffer> <localleader>xc :w <cr> :!clear && cc % -o %< && ./%< <cr>
 
 "   Debbuging program
-    nnoremap <buffer> <localleader>dd :w <cr> :!clear && cc -g % -o debug-%< && gdb debug-%< <cr>
+    nnoremap <buffer> <localleader>dd :w <cr> :!clear && g++ -g % -o debug-%< && gdb debug-%< <cr>
 endfunction
 
 " Key shortcuts to C++ language
