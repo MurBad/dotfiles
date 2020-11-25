@@ -3,7 +3,7 @@
 feh --bg-fill "/home/murr/Imagens/backgrounds/wallhaven-0wg61x_2560x1440.png" &
 
 # Locker
-xautolock -time 2 -locker suspendlock &
+xautolock -time 2 -locker slock &
 
 # Status bar
 while :; do
