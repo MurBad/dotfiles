@@ -19,4 +19,5 @@ export PATH
 alias http-server='python3 -m http.server'
 alias joplin='Joplin-1.3.18.AppImage &'
 alias discord='/home/murr/Discord/Discord &'
+alias printc='import /home/murr/Imagens/Prints/$(date +%F-%R:%S).jpg'
 alias print='import -window root /home/murr/Imagens/Prints/$(date +%F-%R:%S).jpg'
