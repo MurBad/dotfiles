@@ -2,6 +2,8 @@
 My personal configuration. 
 * Settings for:
   * vim
+  * dunst
+  * bash
 
 * Other config files used in my [dwm](https://github.com/MurBad/dwm) and [st](https://github.com/MurBad/st) repos.
 
